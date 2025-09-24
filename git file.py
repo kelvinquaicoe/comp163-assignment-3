@@ -1,0 +1,5 @@
+student_name = ('Kelvin Quaicoe')
+current_gpa = float(3.9)
+study_hours = int(25)
+social_points = int(50)
+stress_level = int(50)
