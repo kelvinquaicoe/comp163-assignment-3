@@ -3,3 +3,6 @@ current_gpa = float(3.9)
 study_hours = int(25)
 social_points = int(50)
 stress_level = int(50)
+
+# Pass Test Case 1: Initial game setup with required variables
+
