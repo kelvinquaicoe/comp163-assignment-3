@@ -1,3 +1,4 @@
+
 student_name = ('Kelvin Quaicoe')
 current_gpa = float(3.9)
 study_hours = int(25)
@@ -81,6 +82,16 @@ elif sub not in subject  :
 print(f'Social points have decreased/incresaed to: {social_points}')
 
 #Pass Test Case 3: Study strategy with membership and logical operators
+
+if current_gpa >= 3.5 and stress_level <= 40 and social_points >= 50:
+    print("Outstanding Semester: Excellent GPA, Low Stress, Well-balanced social and academic life.")
+elif current_gpa >= 3.0 and stress_level <= 60 and social_points >= 40:
+    print("Good Semester: Solid GPA with manageable stress and social balance.")
+elif current_gpa >= 2.5 and stress_level <= 80 and social_points >= 30:
+    print("Average Semester: Satisfactory performance, but room for improvement in stress management and social balance.")
+else:
+    print("Struggling Semester: Low GPA, high stress, and a lack of balance. Consider seeking help.")
+
 
 
 
