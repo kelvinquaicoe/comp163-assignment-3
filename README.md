@@ -53,8 +53,10 @@ Represents a semester where intervention, study adjustments, or support is neede
 
 # AI Assistance Used During Development
 
-Ai was used in finding bugs and problems in logoical functions.
-Structuring the README and ensuring clear, professional documentation
+Ai was used in finding bugs and problems in logoical functions.eg. 
+if current_gpa < 2.0 and social_points > 50:
+from if current_gpa > 2.0 and social_points < 50:
+Structuring the README to ensure a clear, professional documentation
 Ai was used to make sure everything I typed in the read me was accurate and not functionaly wrong.
 Ai was used to make sure all the requiremnts of the home work were met are I finished the assesment.
 Ai was used to simplify some applications as code got redundunt at some point.
